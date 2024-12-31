@@ -1,1 +1,8 @@
 # Study_recs
+THIS IS A REPO FOR ALL DISCUSSED CLASS WORK 
+USE CTRL + LEFT CLICK on the TABLE OF CONTENTS to go to the desired page
+
+DOCUMENT 1 
+NOV/16/2024 to JAN/01/2024 BCS1101- FUNDAMENTALS OF COMPUTER & OFFICE APPLICATIONS
+    27 questions with their answers fully discussed.
+
